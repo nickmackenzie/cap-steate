@@ -1,0 +1,12 @@
+:root {
+    --blue:#3668B3
+}
+
+.bg-blue {
+    background-color:     #3668B3 !important;
+
+}
+
+.text-blue {
+    color: #3668B3 !important;;
+}
